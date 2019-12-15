@@ -73,3 +73,6 @@
   form .input-field{
     margin-top: 30px;
   }
+  i.delete {
+    cursor: pointer
+  }
